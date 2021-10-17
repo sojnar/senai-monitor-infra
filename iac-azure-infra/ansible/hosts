@@ -1,0 +1,5 @@
+[servers]
+server1 ansible_host=dns1-vm01.eastus.cloudapp.azure.com
+
+#[servers:vars]
+#ansible_python_interpreter=/usr/bin/python3
